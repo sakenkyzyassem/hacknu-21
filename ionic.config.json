@@ -1,0 +1,7 @@
+{
+  "name": "nacknu-21",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "vue"
+}
